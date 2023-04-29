@@ -5,14 +5,14 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Blog with Gatsby
 </h1>
 
 
 
 
 ## 🚀 [Demo](https://linh-blog.surge.sh/
-)
+
 
 
 
