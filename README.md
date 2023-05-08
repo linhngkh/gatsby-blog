@@ -9,7 +9,7 @@
 </h1>
 
 
-
+Learning Gatsby.js
 
 ## 🚀 [Demo](https://linh-blog.surge.sh/
 

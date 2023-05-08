@@ -3,6 +3,9 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 
 /**
  * @type {import('gatsby').GatsbyConfig}
@@ -46,6 +49,14 @@ module.exports = {
         // theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `16mi2tm94h6t`,
+        accessToken: process.env.CONTENFUL_ACCESS_TOKEN,
+        host: `preview.contentful.com`,
       },
     },
   ],
