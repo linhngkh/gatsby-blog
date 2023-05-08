@@ -5,11 +5,11 @@
   </a>
 </p>
 <h1 align="center">
-  Blog with Gatsby
+Learning Gatsby.js by making a personal blog
 </h1>
 
 
-Learning Gatsby.js
+
 
 ## 🚀 [Demo](https://linh-blog.surge.sh/
 
