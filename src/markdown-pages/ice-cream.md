@@ -1,23 +1,12 @@
 ---
-title: "Why I Love Ice Cream"
-date: "2017-08-10"
+title: "Learning Diary"
+date: "2023-05-08"
 ---
 
-### Ice cream is the best.
+### What I am learning in 2023?
 
-I scream, you scream, we all scream, because there's no more ice cream. No one's rhyming about spinach.
+ I am improving my coding skills and problem solvings by learning Full Stack Open offered by Uni of Helsinki, understand web, internet and MERN stack more. 
 
-Here is a description of this heavenly nectar from wikipedia on [ice cream](https://en.wikipedia.org/wiki/Ice_cream): 
+ I like learning JS frameworks and some of them are required Typescrypt, so yeah, I will learn T3 Stack + Qwik which are also added TS
 
-> Ice cream (derived from earlier iced cream or cream ice)is
-> a sweetened frozen food typically eaten as a snack or 
-> dessert. It may be made from dairy milk or cream, or soy, 
-> cashew, coconut or almond milk, and is flavored with a 
-> sweetener, either sugar or an alternative, and any spice, 
-> such as cocoa or vanilla. Colourings are usually added, in 
-> addition to stabilizers. The mixture is stirred to 
-> incorporate air spaces and cooled below the freezing point 
-> of water to prevent detectable ice crystals from forming. 
-> The result is a smooth, semi-solid foam that is solid at 
-> very low temperatures (below 2 °C or 35 °F). It becomes 
-> more malleable as its temperature increases.
+Also, I am still learning React.js for building big and complicated projects.
